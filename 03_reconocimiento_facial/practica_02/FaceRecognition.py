@@ -29,7 +29,6 @@ for lis in lista:
 print(clases)
 
 #Funcion para codificar los rostros
-
 def codrostros(images):
     listacod = []
 
